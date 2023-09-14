@@ -1,0 +1,163 @@
+{
+    "Stats": true,
+    "MouseOption": 1,
+    "ItemsMode": "Corners",
+    "Paths": {
+        "MainPath": "images",
+        "ItemsPath": "images/Items/Corners/",
+        "ChestsPath": "images/Depot/Chests/",
+        "ContainersNamePath": "images/Items/ContainersName/",
+        "CavebotScriptsPath": "Scripts/"
+    },
+    "Positions": {
+        "LifePosition": [
+            {
+                "x": 1758,
+                "y": 219,
+                "Stats": true
+            }
+        ],
+        "ManaPosition": [
+            {
+                "x": 1759,
+                "y": 232,
+                "Stats": true
+            }
+        ],
+        "BattlePosition": [
+            {
+                "x": 188,
+                "y": 497,
+                "Stats": true
+            }
+        ],
+        "PlayerPosition": [
+            {
+                "x": 955,
+                "y": 409,
+                "Stats": true
+            }
+        ]
+    },
+    "Boxes": {
+        "StatusBarBox": [
+            {
+                "x": 1753,
+                "y": 387,
+                "w": 1858,
+                "h": 397,
+                "Stats": true
+            }
+        ],
+        "BattleBox": [
+            {
+                "x": 188,
+                "y": 497,
+                "w": 335,
+                "h": 912,
+                "Stats": true
+            }
+        ],
+        "RingBox": [
+            {
+                "x": 1753,
+                "y": 329,
+                "w": 1784,
+                "h": 360,
+                "Stats": true
+            }
+        ],
+        "AmuletBox": [
+            {
+                "x": 1753,
+                "y": 257,
+                "w": 1784,
+                "h": 288,
+                "Stats": true
+            }
+        ],
+        "GameWindowBox": [
+            {
+                "x": 350,
+                "y": 2,
+                "w": 1561,
+                "h": 816,
+                "Stats": true
+            }
+        ],
+        "MapBox": [
+            {
+                "x": 1753,
+                "y": 100,
+                "w": 1858,
+                "h": 208,
+                "Stats": true
+            }
+        ]
+    },
+    "SQM": {
+        "SQM1": [
+            {
+                "x": 875,
+                "y": 483,
+                "Stats": true
+            }
+        ],
+        "SQM2": [
+            {
+                "x": 955,
+                "y": 483,
+                "Stats": true
+            }
+        ],
+        "SQM3": [
+            {
+                "x": 1035,
+                "y": 483,
+                "Stats": true
+            }
+        ],
+        "SQM4": [
+            {
+                "x": 875,
+                "y": 409,
+                "Stats": true
+            }
+        ],
+        "SQM5": [
+            {
+                "x": 955,
+                "y": 409,
+                "Stats": true
+            }
+        ],
+        "SQM6": [
+            {
+                "x": 1035,
+                "y": 409,
+                "Stats": true
+            }
+        ],
+        "SQM7": [
+            {
+                "x": 875,
+                "y": 335,
+                "Stats": true
+            }
+        ],
+        "SQM8": [
+            {
+                "x": 955,
+                "y": 335,
+                "Stats": true
+            }
+        ],
+        "SQM9": [
+            {
+                "x": 1035,
+                "y": 335,
+                "Stats": true
+            }
+        ]
+    }
+}
